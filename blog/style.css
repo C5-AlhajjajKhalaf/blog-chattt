@@ -8,8 +8,13 @@ background-color:white
 .Big{
     display: flex;
     flex-direction: row;
+    gap: 40px;
 }
 .image1{
     width: 760px;
     height: 450;
+}
+.image2{
+    width: 320px;
+    height: 220;
 }
