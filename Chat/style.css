@@ -1,0 +1,36 @@
+body{
+padding: 10%;
+
+background-color:white
+
+
+}
+.Big{
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+}
+.One{
+    color: white;
+    width: 450px;
+    padding-left: 30px;
+    padding-top: 10px;
+    display: flex;
+    flex-direction: row;
+    gap:10px;
+    background-color: rgb(76, 23, 126);
+}
+.One div h5{
+ position: relative;
+ bottom: 20px;
+}
+.image1{
+    width: 70px;
+    height: 70px;
+    
+    
+}
+.image2{
+    width: 320px;
+    height: 220;
+}
